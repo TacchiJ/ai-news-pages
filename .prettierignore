@@ -1,0 +1,10 @@
+node_modules
+dist
+.wrangler
+.sites-runtime
+.setup
+private-data
+test-results
+package-lock.json
+drizzle/meta
+build
